@@ -1,0 +1,6 @@
+Git Push :
+git commit -am "any message"
+-
+Git Pull :
+git fetch --all
+git reset --hard origin/main
