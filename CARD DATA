@@ -3,6 +3,8 @@ NO AVAILABLE : 🔖 | AVAILABLE : ❇️ | PRIVATE : 🔑 | CARD LOCK : 🔒 | T
 SSR Hunting : <a:ssr:1317516009619456150>
 
 git commit -am "any message"
+git fetch --all
+git reset --hard origin/main
 
 Event : Duo Banner
 🔖 Shinobu & Koyomi
