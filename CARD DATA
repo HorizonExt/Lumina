@@ -2,7 +2,9 @@ NO AVAILABLE : 🔖 | AVAILABLE : ❇️ | PRIVATE : 🔑 | CARD LOCK : 🔒 | T
 
 SSR Hunting : <a:ssr:1317516009619456150>
 
+Git Push :
 git commit -am "any message"
+Git Pull :
 git fetch --all
 git reset --hard origin/main
 
